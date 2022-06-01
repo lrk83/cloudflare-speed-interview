@@ -1,0 +1,12 @@
+name = "speed-interview"
+type = "javascript"
+route = ''
+zone_id = ''
+usage_model = ''
+compatibility_flags = []
+workers_dev = true
+compatibility_date = "2022-06-01"
+kv_namespaces = [ 
+	{ binding = "TASKS", id = "2e39bd6c14ec441c953da932ff7134cd", preview_id = "2e39bd6c14ec441c953da932ff7134cd" },
+]
+account_id = "f45876fbcaf4581a59ebf9ddb5549818"
